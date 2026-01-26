@@ -1,54 +1,51 @@
-<!DOCTYPE html>
-<html lang="en">
+# 🚀 Faizan Ali | Full Stack Developer in Progress
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
+Welcome to my professional portfolio repository! This project showcases my journey as a developer, my technical roadmap, and the skills I've mastered at **Saylani Mass IT Training (SMIT)**.
 
-<body>
-    <h1 align="center">Hi 👋, I'm Muhammad Faizanali</h1>
-    <h3 align="center">A Passionate Full-Stack Developer</h3>
-<body>
-    <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
-        width="400px" alt="coding">
-<body>
-    <p align="left"> <img
-            src="https://komarev.com/ghpvc/?username=faizanali1212&label=Profile%20views&color=0e75b6&style=flat"
-            alt="faizanali1212" /> </p>
-<body>
-    - 🌱 I’m currently learning **Mordern web and appliction development.**
-<body>
-    - 👨‍💻 All of my projects are available at [https://github.com/Faizanali1212](https://github.com/Faizanali1212)
-<body>
-    - 📫 How to reach me **fa2670446@gmail.com**
-<body>
-    <h3 align="left">Connect with me:</h3>
-    <p align="left">
-        <a href="https://linkedin.com/in/https://www.linkedin.com/in/faizan-ali-052451395/" target="blank"><img
-                align="center"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-                alt="https://www.linkedin.com/in/faizan-ali-052451395/" height="30" width="40" /></a>
-    </p>
-<body>
-    <h3 align="left">Languages and Tools:</h3>
-    <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                alt="css3" width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank"
-            rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                alt="html5" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
-            rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-                alt="photoshop" width="40" height="40" /> </a> </p>
-<body>
-    <p><img align="left"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=faizanali1212&show_icons=true&locale=en&layout=compact"
-            alt="faizanali1212" /></p>
-<body>
-    <p>&nbsp;<img align="center"
-            src="https://github-readme-stats.vercel.app/api?username=faizanali1212&show_icons=true&locale=en"
-            alt="faizanali1212" /></p>
-<body>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizanali1212&"
-    ></p>
+---
+
+## 🛠️ Tech Stack & Skills
+
+- **Frontend:** HTML5, CSS3, Flexbox, Grid, Bootstrap 5
+- **Programming:** JavaScript (Core concepts & DOM Manipulation)
+- **Modern JS:** Currently Mastering **ECMAScript 6 (ES6)** ⚡
+- **Tools:** Git, GitHub, VS Code, Netlify
+
+---
+
+## 🌐 Live Demo
+
+You can view the live version of my portfolio here:  
+👉 **[View My Portfolio](https://faizan-developer-portfolio.netlify.app/)**
+
+---
+
+## 📈 My Roadmap (2025-2026)
+
+- [x] HTML5 & CSS3 (Completed)
+- [x] Basic JavaScript & DOM (Completed)
+- [ ] Advanced JavaScript (ES6+) (In Progress)
+- [ ] React.js & Next.js (Upcoming)
+- [ ] Node.js & MongoDB (Upcoming)
+
+---
+
+## 📁 Key Features of this Portfolio
+
+- **Fully Responsive:** Works perfectly on Mobile, Tablet, and Desktop.
+- **Interactive UI:** Smooth scrolling and modern animations.
+- **PDF Resume:** Integration for downloading my professional CV.
+- **Modern JS Logic:** Clean and efficient code structure.
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/faizan-ali-052451395/)
+- **Email:** fa5925352@gmail.com
+- **Location:** Karachi, Pakistan
+
+---
+*Built with ❤️ and a lot of passion for coding.*
