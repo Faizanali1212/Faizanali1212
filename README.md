@@ -1,51 +1,86 @@
-# 🚀 Faizan Ali | Full Stack Developer in Progress
+<h1 align="center">🚀 Faizan Ali | Full Stack Developer</h1>
 
-Welcome to my professional portfolio repository! This project showcases my journey as a developer, my technical roadmap, and the skills I've mastered at **Saylani Mass IT Training (SMIT)**.
-
----
-
-## 🛠️ Tech Stack & Skills
-
-- **Frontend:** HTML5, CSS3, Flexbox, Grid, Bootstrap 5
-- **Programming:** JavaScript (Core concepts & DOM Manipulation)
-- **Modern JS:** Currently Mastering **ECMAScript 6 (ES6)** ⚡
-- **Tools:** Git, GitHub, VS Code, Netlify
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+In+Progress;React+%7C+Next.js+%7C+Firebase;Passionate+About+Building+Web+Apps;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
-## 🌐 Live Demo
+## 🧑‍💻 About Me
 
-You can view the live version of my portfolio here:  
-👉 **[View My Portfolio](https://faizan-developer-portfolio.netlify.app/)**
-
----
-
-## 📈 My Roadmap (2025-2026)
-
-- [x] HTML5 & CSS3 (Completed)
-- [x] Basic JavaScript & DOM (Completed)
-- [ ] Advanced JavaScript (ES6+) (In Progress)
-- [ ] React.js & Next.js (Upcoming)
-- [ ] Node.js & MongoDB (Upcoming)
+💻 Full Stack Developer in progress at **Saylani Mass IT Training (SMIT)**  
+🚀 Passionate about building modern and responsive web applications  
+📍 Based in **Karachi, Pakistan**  
 
 ---
 
-## 📁 Key Features of this Portfolio
+## 🛠 Tech Stack
 
-- **Fully Responsive:** Works perfectly on Mobile, Tablet, and Desktop.
-- **Interactive UI:** Smooth scrolling and modern animations.
-- **PDF Resume:** Integration for downloading my professional CV.
-- **Modern JS Logic:** Clean and efficient code structure.
+### 🎨 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ⚡ JavaScript
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
+
+### ⚛️ Frameworks
+![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+
+### 🔥 Backend / Database
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase)
+
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-## 📫 Let's Connect!
+## 🌐 Live Portfolio
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+🚀 Click below to view my live portfolio
 
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/faizan-ali-052451395/)
-- **Email:** fa5925352@gmail.com
-- **Location:** Karachi, Pakistan
+🔗 **[View My Portfolio](https://faizan-developer-portfolio.netlify.app/)**
 
 ---
-*Built with ❤️ and a lot of passion for coding.*
+
+## 📈 Learning Journey (2025-2026)
+
+✔ HTML5 & CSS3  
+✔ JavaScript & DOM  
+✔ Advanced JavaScript (ES6+)  
+✔ React.js  
+✔ Next.js  
+✔ Firebase  
+
+---
+
+## 📊 GitHub Stats
+
+![Faizan GitHub stats](https://github-readme-stats.vercel.app/api?username=FaizanAli&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanAli&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn  
+https://www.linkedin.com/in/faizan-ali-052451395/
+
+📧 Email  
+fa5925352@gmail.com
+
+📍 Karachi, Pakistan
+
+---
+
+<p align="center">
+✨ Built with ❤️ by Faizan Ali ✨
+</p>
