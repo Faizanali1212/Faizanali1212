@@ -1,86 +1,63 @@
-<h1 align="center">🚀 Faizan Ali | Full Stack Developer</h1>
+# 🚀 Faizan Ali | Full Stack Developer in Progress
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+In+Progress;React+%7C+Next.js+%7C+Firebase;Passionate+About+Building+Web+Apps;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+in+Progress;Mastering+Modern+JS+%26+React;Building+Scalable+Web+Apps;SMIT+Student" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+### 🛠️ Tech Stack & Skills
 
-💻 Full Stack Developer in progress at **Saylani Mass IT Training (SMIT)**  
-🚀 Passionate about building modern and responsive web applications  
-📍 Based in **Karachi, Pakistan**  
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
----
-
-## 🛠 Tech Stack
-
-### 🎨 Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ⚡ JavaScript
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
-
-### ⚛️ Frameworks
-![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-
-### 🔥 Backend / Database
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase)
-
-### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+- **Frontend:** HTML5, CSS3, Flexbox, Grid, Bootstrap 5
+- **Programming:** JavaScript (Core concepts & DOM Manipulation)
+- **Modern JS:** Mastering **ECMAScript 6 (ES6)** ⚡
+- **Backend/DB:** Firebase Authentication & Firestore 
+- **Tools:** Git, GitHub, VS Code, Netlify
 
 ---
 
-## 🌐 Live Portfolio
+### 📈 My Roadmap (2025-2026)
 
-🚀 Click below to view my live portfolio
-
-🔗 **[View My Portfolio](https://faizan-developer-portfolio.netlify.app/)**
-
----
-
-## 📈 Learning Journey (2025-2026)
-
-✔ HTML5 & CSS3  
-✔ JavaScript & DOM  
-✔ Advanced JavaScript (ES6+)  
-✔ React.js  
-✔ Next.js  
-✔ Firebase  
+| Phase | Technology | Status |
+| :--- | :--- | :--- |
+| 🏗️ Foundation | HTML5 & CSS3 | ![100%](https://geps.dev/progress/100) |
+| ⚡ Logic | Basic JS & DOM | ![100%](https://geps.dev/progress/100) |
+| 🔥 Advanced | ES6+ & Async JS | ![100%](https://geps.dev/progress/100) |
+| ⚛️ Framework | React.js & Next.js | ![100%](https://geps.dev/progress/100) |
+| ☁️ Backend | Firebase Services | ![100%](https://geps.dev/progress/100) |
 
 ---
 
-## 📊 GitHub Stats
-
-![Faizan GitHub stats](https://github-readme-stats.vercel.app/api?username=FaizanAli&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanAli&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Connect With Me
-
-💼 LinkedIn  
-https://www.linkedin.com/in/faizan-ali-052451395/
-
-📧 Email  
-fa5925352@gmail.com
-
-📍 Karachi, Pakistan
-
----
+### 📊 GitHub Stats (Live Animation)
 
 <p align="center">
-✨ Built with ❤️ by Faizan Ali ✨
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=faizan-ali-github-username&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan-ali-github-username&theme=radical&hide_border=true" />
 </p>
+
+---
+
+### 🌐 Live Demo
+👉 **[View My Portfolio](https://faizan-developer-portfolio.netlify.app/)**
+
+---
+
+### 📫 Let's Connect!
+
+<p align="left">
+<a href="https://www.linkedin.com/in/faizan-ali-052451395/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Faizan Ali" height="30" width="40" /></a>
+<a href="mailto:fa5925352@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="fa5925352@gmail.com" height="30" width="40" /></a>
+</p>
+
+---
+*Built with ❤️ and a lot of passion for coding in Karachi.*
