@@ -1,7 +1,7 @@
-# 🚀 Faizan Ali | Full Stack Developer in Progress
+# 🚀 Faizan Ali | Aspiring Full Stack Developer @ SMIT
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+in+Progress;Mastering+Modern+JS+%26+React;Building+Scalable+Web+Apps;SMIT+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Aspiring+Full+Stack+Developer;Student+at+Saylani+Mass+IT+Training;Mastering+MERN+Stack;Building+the+Future+with+Code" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,38 +13,29 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
   <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-- **Frontend:** HTML5, CSS3, Flexbox, Grid, Bootstrap 5
-- **Programming:** JavaScript (Core concepts & DOM Manipulation)
+- **Frontend:** HTML5, CSS3, Flexbox, Grid, Bootstrap 5        
+- **Programming:** JavaScript (Core concepts & DOM Manipulation)               
 - **Modern JS:** Mastering **ECMAScript 6 (ES6)** ⚡
 - **Backend/DB:** Firebase Authentication & Firestore 
 - **Tools:** Git, GitHub, VS Code, Netlify
 
 ---
 
-### 📈 My Roadmap (2025-2026)
+### 📈 Learning Roadmap (2025-2026)
 
-| Phase | Technology | Status |
-| :--- | :--- | :--- |
-| 🏗️ Foundation | HTML5 & CSS3 | ![100%](https://geps.dev/progress/100) |
-| ⚡ Logic | Basic JS & DOM | ![100%](https://geps.dev/progress/100) |
-| 🔥 Advanced | ES6+ & Async JS | ![100%](https://geps.dev/progress/100) |
-| ⚛️ Framework | React.js & Next.js | ![100%](https://geps.dev/progress/100) |
-| ☁️ Backend | Firebase Services | ![100%](https://geps.dev/progress/100) |
+| Phase | Technology | Progress | Status |
+| :--- | :--- | :--- | :--- |
+| 🏗️ Foundation | HTML5 & CSS3 | ![100%](https://geps.dev/progress/100) | **Completed** |
+| ⚡ Logic | Basic JS & DOM | ![85%](https://geps.dev/progress/85) | **Advanced Stage** |
+| 🔥 Advanced | ES6+ & Async JS | ![80%](https://geps.dev/progress/80) | **In Progress** |
+| ⚛️ Framework | React.js & Next.js | ![10%](https://geps.dev/progress/10) | **Starting Soon** |
+| ☁️ Backend | Firebase Services | ![80%](https://geps.dev/progress/80) | **In Progress** |
 
 ---
-
-### 📊 GitHub Stats (Live Animation)
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=faizan-ali-github-username&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan-ali-github-username&theme=radical&hide_border=true" />
-</p>
-
 ---
 
 ### 🌐 Live Demo
@@ -60,4 +51,4 @@
 </p>
 
 ---
-*Built with ❤️ and a lot of passion for coding in Karachi.*
+*Built with ❤️ and a lot of passion at SMIT, Karachi.*
