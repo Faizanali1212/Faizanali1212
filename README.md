@@ -46,9 +46,8 @@
 ### 📫 Let's Connect!
 
 <p align="left">
-<a href="https://www.linkedin.com/in/faizan-ali-052451395/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Faizan Ali" height="30" width="40" /></a>
-<a href="mailto:fa5925352@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="fa5925352@gmail.com" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/faizan-ali-052451395/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Faizan Ali" height="30" width="40" />LinkedIn </a>
+<p>CopyEmail=> fa5925352@gmail.com</p>
 
 ---
 *Built with ❤️ and a lot of passion at SMIT, Karachi.*
