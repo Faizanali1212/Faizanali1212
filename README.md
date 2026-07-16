@@ -9,11 +9,11 @@
   <a href="https://faizan-developer-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View%20Live-39FF14?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/faizan-ali-052451395/" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-faizan-052451395/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:fa5925352@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://faizan-developer-portfolio.netlify.app/contact" target="_blank">
+    <img src="https://img.shields.io/badge/Contact-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -72,13 +72,13 @@ I'm a **Full Stack Developer** trained at **Saylani Mass IT Training (SMIT), Kar
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Fazan526&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fazan526&layout=compact&theme=radical&hide_border=true" />
-</p>
+<!-- <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Faizanali1212&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizanali1212&layout=compact&theme=radical&hide_border=true" />
+</p> -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fazan526&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizanali1212&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -91,17 +91,19 @@ I'm a **Full Stack Developer** trained at **Saylani Mass IT Training (SMIT), Kar
 
 ### 📫 Let's Connect!
 
-<p align="left">
-<a href="https://www.linkedin.com/in/faizan-ali-052451395/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Faizan Ali" height="30" width="40" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:fa5925352@gmail.com">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-faizan-052451395/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Faizan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://faizan-developer-portfolio.netlify.app/contact" target="_blank">
+    <img src="https://img.shields.io/badge/Contact%20Me-Portfolio-39FF14?style=for-the-badge&logo=todoist&logoColor=black" />
+  </a>
+  <a href="https://faizan-developer-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-FF6C37?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
-📧 **fa5925352@gmail.com**
+<p align="center"><i>Open to internships, freelance work & full stack opportunities 🚀</i></p>
 
 ---
 
