@@ -66,7 +66,7 @@ I'm a **Full Stack Developer** trained at **Saylani Mass IT Training (SMIT), Kar
 | 🎯 Typed JS | TypeScript | ![100%](https://geps.dev/progress/100) | ✅ Completed |
 | ⚛️ Framework | React.js | ![100%](https://geps.dev/progress/100) | ✅ Completed |
 | ☁️ Backend | Firebase Services | ![100%](https://geps.dev/progress/100) | ✅ Completed |
-| 🚀 Next Step | Next.js & Node.js | ![15%](https://geps.dev/progress/15) | 🔄 Starting Soon |
+| 🚀 Next Step | Next.js & Node.js | ![15%](https://geps.dev/progress/90) | 🔄 Starting Soon |
 
 ---
 
@@ -85,7 +85,7 @@ I'm a **Full Stack Developer** trained at **Saylani Mass IT Training (SMIT), Kar
 
 ### 🌐 Live Demo
 
-👉 **[View My Portfolio](https://faizan-developer-portfolio.netlify.app/)**
+👉 **[View My Portfolio](https://faizan-fullstack.netlify.app/)**
 
 ---
 
