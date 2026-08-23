@@ -153,7 +153,7 @@ I enjoy turning ideas into real-world products and continuously improving my dev
 
 ## 🌐 Live Demo
 
-👉 **[View My Portfolio](https://faizan-developer-portfolio.netlify.app/)**
+👉 **[View My Portfolio](https://faizan-fullstack.netlify.app/)**
 
 ---
 
