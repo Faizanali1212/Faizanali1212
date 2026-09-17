@@ -11,10 +11,10 @@
 
 ### 👨‍💻 About Me
 
-I'm a Full Stack Web Developer trained at **Saylani Mass IT Training (SMIT), Karachi**, focused on building clean, functional, and user-friendly web applications. I've completed a solid foundation in modern frontend technologies and I'm now expanding into backend development to build complete, production-ready MERN stack applications.
+I'm a Full Stack Web Developer trained at **Saylani Mass IT Training (SMIT), Karachi** (September 2025 – September 2026), focused on building clean, functional, and user-friendly web applications across the full stack — from responsive frontends to backend APIs and databases.
 
-- 🛠️ Currently building full-stack projects with **React, Firebase & TypeScript**
-- 📈 Leveling up towards **Node.js, Express.js & MongoDB** (completing the MERN stack)
+- 🛠️ Building full-stack projects with **React, Next.js, Node.js, Express.js & MongoDB/Firebase**
+- 🐳 Comfortable with **Docker** for containerized development and deployment
 - 💡 I enjoy solving problems and turning ideas into working products
 - 📫 Reach me at: **fa5925352@gmail.com**
 
@@ -27,35 +27,41 @@ I'm a Full Stack Web Developer trained at **Saylani Mass IT Training (SMIT), Kar
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 | Category      | Skills                                               |
 |----------------|-------------------------------------------------------|
-| Frontend       | HTML5, CSS3, Flexbox, Grid, Bootstrap 5, Tailwind CSS |
-| Programming    | JavaScript (ES6+), TypeScript, DOM, Async JS          |
-| Frameworks     | React.js                                              |
-| Backend / DB   | Firebase Authentication & Firestore                   |
-| Tools          | Git, GitHub, VS Code, Netlify, Vercel                 |
+| Frontend       | HTML5, CSS3, Flexbox, Grid, Tailwind CSS, Bootstrap 5 |
+| Programming    | JavaScript (ES6+), Advanced JavaScript, TypeScript    |
+| Frameworks     | React.js, Next.js                                     |
+| Backend        | Node.js, Express.js — RESTful APIs                    |
+| Databases      | MongoDB (NoSQL), PostgreSQL (SQL), Firebase           |
+| DevOps         | Docker, Git, GitHub, Vercel, Netlify                  |
 
 ---
 
-### 🗺️ Learning Roadmap
+### 🗺️ Full Stack Roadmap — Completed
 
-| Phase       | Technology              | Status         |
-|-------------|--------------------------|----------------|
-| Foundation  | HTML5 & CSS3             | ✅ Completed   |
-| Logic       | JavaScript & DOM         | ✅ Completed   |
-| Advanced    | ES6+ & Async JS          | ✅ Completed   |
-| Typed JS    | TypeScript               | ✅ Completed   |
-| Framework   | React.js                 | ✅ Completed   |
-| Backend/DB  | Firebase Services        | ✅ Completed   |
-| Next Step   | Node.js & Express.js     | 🔄 In Progress |
-| Final Step  | MongoDB (Full MERN)      | 🔜 Upcoming    |
+| Phase       | Technology                     | Status         |
+|-------------|----------------------------------|----------------|
+| Foundation  | HTML5 & CSS3                     | ✅ Completed   |
+| Logic       | JavaScript & Advanced JS         | ✅ Completed   |
+| Frameworks  | React.js & Next.js               | ✅ Completed   |
+| Styling     | Tailwind CSS & Bootstrap 5       | ✅ Completed   |
+| Backend     | Node.js & Express.js             | ✅ Completed   |
+| Databases   | MongoDB, PostgreSQL & Firebase   | ✅ Completed   |
+| DevOps      | Docker                           | ✅ Completed   |
 
 ---
 
